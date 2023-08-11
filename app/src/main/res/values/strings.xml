@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cam</string>
+    <string name="permissions_required">Please grant the necessary permissions to continue using the app. You can grant the permissions by going to the app settings and enabling the required permissions.</string>
+    <string name="permissions_required_title">Permissions Required!</string>
+</resources>
